@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532460796 source:c:\users\likin\desktop\study\github\deck\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
